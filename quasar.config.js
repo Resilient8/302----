@@ -32,7 +32,7 @@ export default defineConfig((/* ctx */) => {
 
     // Full list of options: https://v2.quasar.dev/quasar-cli-vite/quasar-config-file#build
     build: {
-      publicPath: '/id-name-lastname/', // <-- เพิ่มบรรทัดนี้แล้ว
+      publicPath: '/302-kasiphasit-kaewchairattanachot/', // <-- เพิ่มบรรทัดนี้แล้ว
 
       target: {
         browser: ['es2022', 'firefox115', 'chrome115', 'safari14'],
